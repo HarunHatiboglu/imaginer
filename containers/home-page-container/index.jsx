@@ -2,6 +2,7 @@ import { Examples } from "./examples";
 import { PrompForm } from "./prompt-form";
 import { PromptSuggestions } from "./prompt-suggestions";
 import styles from "./styles.module.scss";
+
 const HomePageContainers = () => {
   return (
     <div className={styles.homePageContainer}>
